@@ -1,0 +1,26 @@
+body{
+    background-color: #d4ddff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+}
+
+div{
+    background-color:  #8593c6;
+    color: white;
+    width: max-content;
+    padding: 15px 50px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+p{
+    line-height: 20px;
+}
+
+button{
+    width: max-content;
+}
